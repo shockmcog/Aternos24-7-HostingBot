@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "SmiteAFK",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
+    "ip": "lapatasmpgg.play.hosting",
     "port": 25565,
-    "version": "",
+    "version": "1.16",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "YourAuthPassword"
+      "password": "jantarmantar"
     },
     "anti-afk": {
       "enabled": true,
@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 900,
       "messages": [
-        "I'm a regular player",
-        "I like to play Minecraft!"
+        "My Job is to Keep The Server Online!",
+        "lapatasmpgg.play.hosting"
       ]
     },
     "chat-log": true,
